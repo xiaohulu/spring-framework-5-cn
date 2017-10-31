@@ -1,6 +1,7 @@
 # spring-framework-5-cn
 Spring 框架 5.0 中文文档
 
+翻译内容来自 **豆腐丁** 网站：https://doufuding.com/articles/72
 
 ## 目录
 
