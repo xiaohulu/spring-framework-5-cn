@@ -11,7 +11,7 @@ Spring 框架 5.0 中文文档
 1. [首页](https://doufuding.com/translate/14/translate/master/src/docs/asciidoc/index.adoc)
 1. [概述](https://doufuding.com/translate/14/translate/master/src/docs/asciidoc/overview.adoc)
 1. [核心技术](https://doufuding.com/translate/14/translate/master/src/docs/asciidoc/core.adoc)
-    1. [Beans（翻译中……）](https://doufuding.com/translate/14/translate/master/src/docs/asciidoc/core/core-beans.adoc) 共 8834 行，目前翻译到 [1379 行](https://doufuding.com/projects/14/blob/master/src/docs/asciidoc/core/core-beans.adoc#line-1379)
+    1. [Beans（翻译中……）](https://doufuding.com/translate/14/translate/master/src/docs/asciidoc/core/core-beans.adoc) 共 8834 行，目前翻译到 [1972 行](https://doufuding.com/projects/14/blob/master/src/docs/asciidoc/core/core-beans.adoc#line-1605)
     1. [资源（待翻译）](https://doufuding.com/translate/14/translate/master/src/docs/asciidoc/core/core-resources.adoc)
     1. [验证（待翻译）](https://doufuding.com/translate/14/translate/master/src/docs/asciidoc/core/core-validation.adoc)
     1. [表达式（待翻译）](https://doufuding.com/translate/14/translate/master/src/docs/asciidoc/core/core-expressions.adoc)
